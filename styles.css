@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .col-sm-1 img,
 .col-sm-2 img,
-.col-sm-3 img,
-.col-sm-4 img
+.col-sm-4 img,
+.col-sm-12 img
 {
     width: 3rem;
     height: 3rem;
@@ -11,7 +11,7 @@
 
 .col-sm-1,
 .col-sm-2,
-.col-sm-3,
-.col-sm-4{
+.col-sm-4,
+.col-sm-12{
     display: inline;
 }
